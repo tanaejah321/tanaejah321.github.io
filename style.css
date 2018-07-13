@@ -1,0 +1,13 @@
+h1 {
+  color: blue;
+  font-size: 36px;
+}
+body{
+  background-image: URL("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKcnqCuXhWkoZL0oC9lYFK7YTm2qFE4f-TMwF-k3teAnnXJX6Btw")
+}
+p{
+  color: white
+}
+  li{
+    background-color: #87AFC7S;
+}
